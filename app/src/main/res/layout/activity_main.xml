@@ -23,20 +23,13 @@
             android:textColor="#ffffff"/>
         
         <Button
-            android:layout_width=""
-            android:layout_height=""
-    
-    
-    
-    
-    
-    
-    </androidx.appcompat.widget.Toolbar>
-
-
-
-
-
-
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:drawableStart="@android:drawable/ic_menu_sort_by_size"
+            android:minHeight="40dp"
+            android:background="#000000"
+            android:text=" "/>
+     </androidx.appcompat.widget.Toolbar>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
